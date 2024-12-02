@@ -4,3 +4,6 @@ This project goes over the integration of AI and Machine Learning in NVIDIA's DL
 
 Video Link:
 https://youtu.be/YPXJpGV-Mzw
+
+Slides Link:
+https://docs.google.com/presentation/d/1pwrnW9WNp0XeTA4HDWHgyl8k_IDklBmYCQclxGdDKyc/edit?usp=sharing
