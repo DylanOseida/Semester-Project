@@ -6,4 +6,4 @@ Video Link:
 https://youtu.be/YPXJpGV-Mzw
 
 Slides Link:
-https://docs.google.com/presentation/d/1pwrnW9WNp0XeTA4HDWHgyl8k_IDklBmYCQclxGdDKyc/edit?usp=sharing
+https://docs.google.com/presentation/d/1aWqVgkULNy1xycf9Egd5SeaFzAeYM3l652YVH7IryB0/edit?usp=sharing
